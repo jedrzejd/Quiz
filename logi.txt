@@ -1,0 +1,44 @@
+2022-10-17 15:05:55.800 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onCreate
+2022-10-17 15:05:55.825 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStart
+2022-10-17 15:05:55.826 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onResume
+2022-10-17 15:05:55.832 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onPause
+2022-10-17 15:05:55.859 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStop
+2022-10-17 15:06:05.921 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStart
+2022-10-17 15:06:05.921 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onResume
+2022-10-17 15:06:09.550 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onPause
+2022-10-17 15:06:09.551 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStop
+2022-10-17 15:06:09.551 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onDestroy
+2022-10-17 15:06:09.586 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onCreate
+2022-10-17 15:06:09.619 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStart
+2022-10-17 15:06:09.620 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onResume
+2022-10-17 15:06:13.018 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onPause
+2022-10-17 15:06:13.018 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStop
+2022-10-17 15:06:13.022 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onDestroy
+2022-10-17 15:06:13.064 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onCreate
+2022-10-17 15:06:13.082 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStart
+2022-10-17 15:06:13.082 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onResume
+2022-10-17 15:06:21.363 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onPause
+2022-10-17 15:06:21.363 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStop
+2022-10-17 15:06:21.364 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onDestroy
+2022-10-17 15:06:21.387 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onCreate
+2022-10-17 15:06:21.413 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStart
+2022-10-17 15:06:21.413 11976-11976 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onResume
+---------------------------- PROCESS ENDED (11976) for package pl.edu.pb.wi ----------------------------
+Aplikacja zostala zrestartowana
+
+
+
+
+
+---------------------------- PROCESS STARTED (12215) for package pl.edu.pb.wi ----------------------------
+2022-10-17 15:06:49.414 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onCreate
+2022-10-17 15:06:49.963 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStart
+2022-10-17 15:06:49.981 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onResume
+2022-10-17 15:06:54.881 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onPause
+2022-10-17 15:06:54.882 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStop
+2022-10-17 15:06:54.882 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana została metoda: OnSaveInstanceState
+2022-10-17 15:06:54.883 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onDestroy
+2022-10-17 15:06:54.936 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onCreate
+2022-10-17 15:06:54.963 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onStart
+2022-10-17 15:06:54.964 12215-12215 MainActivity            pl.edu.pb.wi                         D  Wywołana zastała metoda cyklu życia: onResume
+Wyswietli sie te same pytanie
