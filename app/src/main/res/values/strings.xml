@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Quiz</string>
+    <string name="button_true">Prawda</string>
+    <string name="button_false">Fałsz</string>
+    <string name="button_next">Następne</string>
+    <string name="matematyka">2+2=5?</string>
+    <string name="historia">Czy mieszko to król poslki?</string>
+    <string name="geografia">Czy Kraków lezy nad Wartą?</string>
+    <string name="mac">Macbook is good?</string>
+    <string name="pomidor">Dla mnie działa?</string>
+    <string name="correct_answer">correct answer</string>
+    <string name="incorrect_answer">incorrect answer</string>
+    <string name="prompt_text_view">Czy na pewno chcesz zobaczyć odpowiedź</string>
+    <string name="button_prompt">Podpowiedź</string>
+    <string name="answer_was_shown">Oszukujesz! Odpowiedź była już wyświetlona</string>
+</resources>
